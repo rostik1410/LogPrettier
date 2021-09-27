@@ -6,7 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+		"url": "ssh://git@github.com:rostik1410/LogPrettier.git"
+  },
   "author": "rostik1410",
   "license": "ISC"
 }
