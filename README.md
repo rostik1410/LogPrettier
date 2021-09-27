@@ -47,7 +47,3 @@ logger.init({
 #### Preview:
 
 ![alt text](./example.png?raw=true)
-
-```
-
-```
