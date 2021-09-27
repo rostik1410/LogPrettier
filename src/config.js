@@ -5,7 +5,8 @@ export const defaultConfig = {
 	debugTitle: '🐛 Debug',
 	warnBackgroundColor: 'Coral',
 	warnTitle: '🧐 Warning',
+	warnTracebackOn: false,
 	errorBackgroundColor: 'Red',
 	errorTitle: '💩 Error',
-	errorTracebackOn: true,
+	errorTracebackOn: false,
 };

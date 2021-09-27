@@ -23,15 +23,16 @@ Supporting any params count and format same which console logs.
 
 | Params               | Description                                                                            |
 | -------------------- | -------------------------------------------------------------------------------------- |
-| infoBackgroundColor  | Background color for info label (supports HTML/CSS color names, hex, and rgba colors)  |
+| infoBackgroundColor  | Background color for info label (supports HTML/CSS color names, hex (with #), and rgba colors)  |
 | infoTitle            | Text for info label (could contain emoji)                                              |
-| debugBackgroundColor | Background color for debug label (supports HTML/CSS color names, hex, and rgba colors) |
+| debugBackgroundColor | Background color for debug label (supports HTML/CSS color names, hex (with #), and rgba colors) |
 | debugTitle           | Text for debug label (could contain emoji)                                             |
-| warnBackgroundColor  | Background color for warn label (supports HTML/CSS color names, hex, and rgba colors)  |
+| warnBackgroundColor  | Background color for warn label (supports HTML/CSS color names, hex (with #), and rgba colors)  |
 | warnTitle            | Text for warn label (could contain emoji)                                              |
-| errorBackgroundColor | Background color for error label (supports HTML/CSS color names, hex, and rgba colors) |
+| warnTracebackOn     | Show warn traceback as console.warn or just show data (default is false)              |
+| errorBackgroundColor | Background color for error label (supports HTML/CSS color names, hex (with #), and rgba colors) |
 | errorTitle           | Text for error label (could contain emoji)                                             |
-| errorTracebackOn     | Show error traceback as console.error or just show data (default is true)              |
+| errorTracebackOn     | Show error traceback as console.error or just show data (default is false)              |
 
 ###### Using:
 
