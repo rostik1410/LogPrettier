@@ -1,0 +1,12 @@
+{
+  "name": "log-prettier",
+  "version": "0.1.0",
+  "description": "Prettier for console logs",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "rostik1410",
+  "license": "ISC"
+}
