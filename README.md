@@ -2,7 +2,7 @@
 
 ### For install use:
 
-    npm i git+ssh://git@github.com:rostik1410/LogPrettier.git
+    npm i log-prettier
 
 ### For using in code use:
 
